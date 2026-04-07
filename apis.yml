@@ -1,7 +1,11 @@
 aid: silgan-holdings
-url: https://raw.githubusercontent.com/api-evangelist/silgan-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/silgan-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.silgan-holdings.com
+description: >-
+  Silgan Holdings is a leading manufacturer of rigid packaging for consumer goods
+  products including metal containers, plastic containers, and metal and plastic closures.
