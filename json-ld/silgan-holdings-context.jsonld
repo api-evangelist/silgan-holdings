@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "gs1": "https://www.gs1.org/voc/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "silgan": "https://silganholdings.com/vocab/",
+
+    "Corporation": "schema:Corporation",
+    "Organization": "schema:Organization",
+    "Product": "schema:Product",
+    "ProductGroup": "schema:ProductGroup",
+    "Place": "schema:Place",
+    "ManufacturingFacility": "schema:Place",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "sameAs": "schema:sameAs",
+    "address": "schema:address",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "foundingDate": "schema:foundingDate",
+    "parentOrganization": "schema:parentOrganization",
+    "subOrganization": "schema:subOrganization",
+
+    "MetalContainer": "silgan:MetalContainer",
+    "PlasticContainer": "silgan:PlasticContainer",
+    "MetalClosure": "silgan:MetalClosure",
+    "PlasticClosure": "silgan:PlasticClosure",
+    "DispensingSystem": "silgan:DispensingSystem",
+    "SpecialtyClosure": "silgan:SpecialtyClosure",
+
+    "endMarket": "silgan:endMarket",
+    "material": "gs1:material",
+    "recycledContent": "silgan:recycledContent",
+    "isLightweighted": "silgan:isLightweighted",
+
+    "annualRevenue": "schema:revenue",
+    "stockTicker": "schema:tickerSymbol",
+    "stockExchange": "schema:exchangeCode",
+
+    "segment": "silgan:businessSegment",
+    "manufacturingFacilities": "silgan:manufacturingFacilities",
+    "continents": "silgan:operatingContinents"
+  }
+}

@@ -1,0 +1,152 @@
+name: Silgan Holdings Vocabulary
+description: >-
+  Vocabulary and taxonomy for Silgan Holdings Inc., a leading global sustainable
+  packaging manufacturer serving consumer goods markets including food, beverage,
+  healthcare, personal care, and home products.
+version: '1.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+
+domains:
+  - name: Business Segments
+    description: Silgan's primary operating business divisions.
+    terms:
+      - name: Dispensing and Specialty Closures
+        label: Dispensing and Specialty Closures
+        description: >-
+          Business segment designing and manufacturing dispensing systems, metal closures,
+          and plastic closures for food, beverage, healthcare, home and garden, personal care,
+          fragrance, and beauty markets.
+      - name: Metal Containers
+        label: Metal Containers
+        description: >-
+          Business segment manufacturing steel and aluminum metal containers primarily
+          for processed food products, pet food, and specialty applications.
+      - name: Custom Containers
+        label: Custom Containers
+        description: >-
+          Business segment producing custom plastic containers for a variety of consumer
+          goods applications.
+
+  - name: Product Types
+    description: Categories of packaging products manufactured by Silgan.
+    terms:
+      - name: Metal Container
+        label: Metal Container
+        description: >-
+          Steel or aluminum cans for food, pet food, and specialty applications.
+          Silgan is one of the largest manufacturers of metal food containers in the US.
+      - name: Plastic Container
+        label: Plastic Container
+        description: >-
+          HDPE, PET, and other plastic bottles, jars, and containers for food,
+          beverage, personal care, and other applications.
+      - name: Metal Closure
+        label: Metal Closure
+        description: >-
+          Metal caps and closures for glass and plastic containers, including
+          twist-off, press-on, and specialty closure formats.
+      - name: Plastic Closure
+        label: Plastic Closure
+        description: >-
+          Plastic caps, lids, and closures for containers across all end markets.
+      - name: Dispensing System
+        label: Dispensing System
+        description: >-
+          Pumps, sprayers, trigger sprayers, and other dispensing mechanisms
+          for personal care, home care, and healthcare products.
+      - name: Specialty Closure
+        label: Specialty Closure
+        description: >-
+          Custom-engineered closures for specialized applications such as child-resistant,
+          tamper-evident, or specialty barrier closures.
+
+  - name: End Markets
+    description: The consumer goods categories Silgan serves.
+    terms:
+      - name: Food and Beverage
+        label: Food and Beverage
+        description: >-
+          Canned food, processed food, beverages, sauces, condiments, and
+          other food/beverage product packaging.
+      - name: Healthcare
+        label: Healthcare
+        description: Pharmaceutical, nutraceutical, and over-the-counter healthcare packaging.
+      - name: Personal Care
+        label: Personal Care
+        description: >-
+          Shampoo, conditioner, lotions, body wash, and other personal care
+          product packaging.
+      - name: Home and Garden
+        label: Home and Garden
+        description: Household cleaning products, lawn and garden chemicals, and related packaging.
+      - name: Fragrance and Beauty
+        label: Fragrance and Beauty
+        description: Perfume, cosmetics, and beauty product packaging requiring premium closures.
+      - name: Pet Food
+        label: Pet Food
+        description: Metal and plastic packaging for pet food and pet care products.
+
+  - name: Materials and Sustainability
+    description: Materials science and sustainability considerations in packaging.
+    terms:
+      - name: Steel Can
+        label: Steel Can
+        description: Tin-plated steel containers for food preservation and storage.
+      - name: Aluminum Closure
+        label: Aluminum Closure
+        description: Lightweight aluminum caps and closures.
+      - name: HDPE
+        label: HDPE (High-Density Polyethylene)
+        description: High-density polyethylene plastic used for containers and closures.
+      - name: PET
+        label: PET (Polyethylene Terephthalate)
+        description: Polyethylene terephthalate plastic commonly used for food and beverage containers.
+      - name: PCR
+        label: Post-Consumer Recycled Content
+        description: Recycled plastic content incorporated into new packaging to reduce virgin material use.
+      - name: Lightweighting
+        label: Lightweighting
+        description: >-
+          The engineering practice of reducing the material weight of packaging while
+          maintaining structural integrity, reducing raw material use and carbon footprint.
+      - name: Recyclability
+        label: Recyclability
+        description: >-
+          The degree to which a packaging product can be collected, sorted, and
+          reprocessed at end of life.
+
+  - name: Manufacturing Operations
+    description: Terms related to Silgan's global manufacturing operations.
+    terms:
+      - name: Manufacturing Facility
+        label: Manufacturing Facility
+        description: One of Silgan's 123 plants across four continents.
+      - name: Quality Control
+        label: Quality Control
+        description: >-
+          The processes and standards Silgan uses to ensure product consistency
+          and safety compliance across all manufacturing locations.
+      - name: Supply Chain
+        label: Supply Chain
+        description: >-
+          The network of raw material suppliers, manufacturing facilities, and
+          distribution channels that deliver packaging products to brand owners.
+      - name: OEM
+        label: OEM (Original Equipment Manufacturer)
+        description: >-
+          Brand owner customers who purchase Silgan packaging for their consumer products.
+
+subsidiaries:
+  - name: Silgan Containers
+    url: https://www.silgancontainers.com/
+    description: US metal food container manufacturing division.
+  - name: Silgan Plastics
+    url: https://www.silganplastics.com/
+    description: Plastic container manufacturing for food, beverage, and personal care.
+  - name: Silgan Closures Americas
+    url: https://www.silgancls.com/
+    description: Closure manufacturing for food and beverage end markets in the Americas.
+  - name: Silgan Closures Europe
+    url: https://www.silgan-closures.com/
+    description: European closure manufacturing operations.
