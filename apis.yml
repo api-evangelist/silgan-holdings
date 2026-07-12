@@ -26,6 +26,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/silgan-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/silgan
   - type: Website
