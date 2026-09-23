@@ -1,7 +1,9 @@
 ---
 title: 'Winners And Losers Of Q1: Silgan Holdings (NYSE:SLGN) ...'
 url: https://www.theglobeandmail.com/investing/markets/stocks/SLGN-N/pressreleases/1842803/winners-and-losers-of-q1-silgan-holdings-nyseslgn-vs-the-rest-of-the-industrial-packaging-stocks/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Silgan Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google
