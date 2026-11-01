@@ -66,58 +66,89 @@
 
 Silgan Holdings Inc. is a leading global sustainable packaging provider for consumer goods products. The company partners with customers to deliver essential products to the world in efficient, sustainable, and cost-effective packaging formats. Silgan operates through three primary business segments: Dispensing and Specialty Closures, Metal Containers, and Custom Containers. With 123 manufacturing facilities on four continents, over 17,200 employees, and approximately $6 billion in annual sales, Silgan serves the food, beverage, healthcare, home and garden, personal care, fragrance, and beauty end markets.
 
-**NYSE:** SLGN (Fortune 1000)  
-**Website:** https://www.silganholdings.com  
-**Investor Relations:** https://ir.silganholdings.com  
+**Areas:** Consumer Goods · Manufacturing · Metal Containers · Packaging · Plastics · Sustainability · Fortune 1000
 
-## Business Segments
+## Silgan Holdings on APIs.io
 
-- **Dispensing and Specialty Closures** — Dispensing systems, metal closures, and plastic closures for food, beverage, healthcare, personal care, fragrance, and beauty markets
-- **Metal Containers** — Steel and aluminum food cans, pet food containers, and specialty applications
-- **Custom Containers** — Plastic containers for diverse consumer goods applications
+Everything profiled for Silgan Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/silgan-holdings/](https://apis.io/providers/silgan-holdings/)** — or go straight to one of the APIs or properties below.
 
-## Subsidiaries
+### Published properties
 
-| Subsidiary | Description |
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Silgan Holdings Context](https://apis.io/jsonld/silgan-holdings/silgan-holdings-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Silgan Holdings Vocabulary](https://apis.io/vocabularies/silgan-holdings/silgan-holdings-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Silgan Holdings Domain Security](https://apis.io/security/silgan-holdings/silgan-holdings-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.silganholdings.com)
+
+## API Evangelist rating
+
+**Kin Score 6.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| [Silgan Containers](https://www.silgancontainers.com/) | US metal food container manufacturing |
-| [Silgan Plastics](https://www.silganplastics.com/) | Plastic containers for food, beverage, personal care |
-| [Silgan Closures Americas](https://www.silgancls.com/) | Closure manufacturing for food and beverage markets |
-| [Silgan Closures Europe](https://www.silgan-closures.com/) | European closure manufacturing operations |
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-## APIs
+**Agent readiness 0.0** — human-only
 
-No public developer APIs are currently documented for Silgan Holdings. The company operates in B2B packaging manufacturing and does not expose public REST APIs. Integration with Silgan's systems is handled through direct enterprise relationships.
-
-## Artifacts
-
-### JSON-LD
-
-| Context | Description |
+| Agent-readiness dimension | Result |
 |---|---|
-| [silgan-holdings-context.jsonld](json-ld/silgan-holdings-context.jsonld) | Silgan Holdings packaging industry vocabulary linked data context |
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-### Vocabulary
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
 
-| Vocabulary | Description |
-|---|---|
-| [silgan-holdings-vocabulary.yml](vocabulary/silgan-holdings-vocabulary.yml) | Silgan Holdings domain vocabulary covering packaging types, end markets, materials, sustainability, and operations |
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/silgan-holdings/](https://apis.io/providers/silgan-holdings/).
 
-## Common Properties
+## How this profile is made
 
-| Property | URL |
-|---|---|
-| Website | https://www.silganholdings.com |
-| About | https://www.silganholdings.com/about-silgan/company-profile/default.aspx |
-| Products | https://www.silganholdings.com/about-silgan/our-businesses/overview/default.aspx |
-| Investor Relations | https://ir.silganholdings.com |
-| News | https://www.silganholdings.com/news/default.aspx |
-| Sustainability | https://www.silganholdings.com/sustainability/ |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Tags
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Silgan Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-Consumer Goods, Manufacturing, Metal Containers, Packaging, Plastics, Sustainability
+## Open an issue
 
-## Maintainers
-
-- Kin Lane (kin@apievangelist.com)
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/silgan-holdings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
